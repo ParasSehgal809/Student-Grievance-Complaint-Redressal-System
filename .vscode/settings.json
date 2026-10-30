@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "maven.terminal.useJavaHome": true,
+    "java.jdt.ls.java.home": "/Users/parassehgal/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.1-macosx-aarch64",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/Users/parassehgal/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.1-macosx-aarch64",
+            "default": true
+        }
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/target": false
+    }
+}
